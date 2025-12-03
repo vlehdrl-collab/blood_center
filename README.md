@@ -13,5 +13,5 @@ DB는 한사람이 만들고 배포한뒤에 그 DB를 토대로 JAVA메서드�
 <img width="1197" height="678" alt="Image" src="https://github.com/user-attachments/assets/56640458-2e09-48ed-b55a-1e2f306ccad2" />
 
 원래는 kb객체에 담은 전체 정보를 화면에 출력할 생각이었지만, DB에서 부터 생긴 오류를 찾는데 시간이 너무 오래걸렸고<br></br>
-노가다에 가까운 일이라 일부 정보만 출력
+노가다에 가까운 일이라 bh와 bb객체의 정보를 제외한 kb 정보만 출력
 
